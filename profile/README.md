@@ -9,7 +9,9 @@ The pictures on this page are still images. The maps are interactive only on [bu
 
 ## For every area
 
+- [Court bundle rules, by court and tribunal](https://bundlecreator.co/court-bundle-rules)
 - [Guides and videos](https://bundlecreator.co/guides)
+- [Glossary of court bundle terms](https://bundlecreator.co/glossary)
 - [Courts and tribunals directory](https://bundlecreator.co/courts)
 - GOV.UK: [Represent yourself in court](https://www.gov.uk/represent-yourself-in-court) · [Find a court or tribunal](https://www.gov.uk/find-court-tribunal) · [Court and tribunal forms](https://www.gov.uk/government/collections/court-and-tribunal-forms) · [Check if you can get legal aid](https://www.gov.uk/check-legal-aid)
 - Independent help: [Citizens Advice](https://www.citizensadvice.org.uk/) · [Advicenow](https://www.advicenow.org.uk/) · [Support Through Court](https://www.supportthroughcourt.org/) · [Law Centres Network](https://www.lawcentres.org.uk/) · [Advocate](https://weareadvocate.org.uk/)
@@ -253,6 +255,6 @@ The pictures on this page are still images. The maps are interactive only on [bu
 
 ---
 
-Links last checked: 10 November 2026. Each map carries its own "last full check" date.
+Links last checked: 11 November 2026. Each map carries its own "last full check" date.
 
 © Steleo Publishing Ltd 2026. BundleCreator.co and the tube-map journey design are trade brands of Steleo Publishing Ltd. All rights reserved. The maps may not be copied or reused without permission.
